@@ -1,0 +1,14 @@
+body    {
+    background-color: rgb(37, 71, 3);
+}
+
+#titleText  {
+    color: azure;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.logoImage {
+    height: 60px;
+    width: 60px;
+}
